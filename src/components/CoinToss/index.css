@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.sizing {
+  height: 100px;
+  width: 100px;
+  margin-left: 120px;
+  margin-bottom: 20px;
+}
+.white {
+  background-color: white;
+
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 430px;
+  text-align: center;
+  margin-left: 590px;
+  padding: 60px;
+}
+.yellow {
+  background-color: #f9d423;
+  background-image: linear-gradient(to left, #e2a139, #f9d423);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.but {
+  width: 200px;
+  margin-left: 70px;
+  background-color: #f9d423;
+  border: 0px;
+  padding: 6px;
+  border-radius: 3px;
+}
+
+.heading {
+  color: #a35200;
+  font-family: Roboto;
+  font-size: 40px;
+}
+
+.para {
+  font-family: Roboto;
+  font-size: 20px;
+}
